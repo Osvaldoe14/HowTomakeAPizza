@@ -1,0 +1,7 @@
+hola que mas
+
+Pasos para crear una pizza
+1. Mas para pizzas
+2. Definir en tipo de pizza a realizar
+3. Buscar los ingredientes
+4. Calentar el horno en tiempo y grados
